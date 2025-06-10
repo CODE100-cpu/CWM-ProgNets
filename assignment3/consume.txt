@@ -1,0 +1,1 @@
+activation power consumption :fluctuates from 0 to 5w(stablizes around 4.58w-4.8w, this changing is due to the period of the background programs). Energy consumed is 0.02wh

@@ -1,0 +1,148 @@
+PJM(USA): 396g/kwH
+21:54:17.621106 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 738354592:738354708, ack 4160195827, win 501, options [nop,nop,TS val 4197103188 ecr 3214755177], length 116
+21:54:17.621244 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 116:168, ack 1, win 501, options [nop,nop,TS val 4197103188 ecr 3214755177], length 52
+21:54:17.621337 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 168:236, ack 1, win 501, options [nop,nop,TS val 4197103188 ecr 3214755177], length 68
+21:54:17.621430 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 236:304, ack 1, win 501, options [nop,nop,TS val 4197103189 ecr 3214755177], length 68
+21:54:17.621573 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 116, win 1697, options [nop,nop,TS val 3214755229 ecr 4197103188], length 0
+21:54:17.621573 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 168, win 1697, options [nop,nop,TS val 3214755229 ecr 4197103188], length 0
+21:54:17.621665 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 236, win 1697, options [nop,nop,TS val 3214755229 ecr 4197103188], length 0
+21:54:17.621665 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 304, win 1697, options [nop,nop,TS val 3214755229 ecr 4197103189], length 0
+21:54:17.695614 IP 192.168.10.2.60998 > 1.1.1.1.domain: 28069+ PTR? 2.10.168.192.in-addr.arpa. (43)
+21:54:19.576460 IP 192.168.10.2.45689 > 1.1.1.1.domain: 9093+ A? 0.debian.pool.ntp.org. (39)
+21:54:19.576564 IP 192.168.10.2.39752 > 1.1.1.1.domain: 34999+ AAAA? 0.debian.pool.ntp.org. (39)
+21:54:22.700897 IP 192.168.10.2.60998 > 1.1.1.1.domain: 28069+ PTR? 2.10.168.192.in-addr.arpa. (43)
+21:54:24.580545 IP 192.168.10.2.45689 > 1.1.1.1.domain: 9093+ A? 0.debian.pool.ntp.org. (39)
+21:54:24.580618 IP 192.168.10.2.39752 > 1.1.1.1.domain: 34999+ AAAA? 0.debian.pool.ntp.org. (39)
+21:54:27.702830 IP 192.168.10.2.38331 > 1.1.1.1.domain: 36472+ PTR? 1.10.168.192.in-addr.arpa. (43)
+21:54:29.585858 IP 192.168.10.2.53511 > 1.1.1.1.domain: 50013+ A? 1.debian.pool.ntp.org. (39)
+21:54:29.585957 IP 192.168.10.2.34350 > 1.1.1.1.domain: 7613+ AAAA? 1.debian.pool.ntp.org. (39)
+21:54:32.708096 IP 192.168.10.2.38331 > 1.1.1.1.domain: 36472+ PTR? 1.10.168.192.in-addr.arpa. (43)
+21:54:37.714658 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 1676, win 1697, options [nop,nop,TS val 3214775322 ecr 4197123281], length 0
+21:54:37.714658 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 1864, win 1697, options [nop,nop,TS val 3214775322 ecr 4197123281], length 0
+21:54:37.714803 IP 192.168.10.2.60752 > 1.1.1.1.domain: 45298+ PTR? 1.1.1.1.in-addr.arpa. (38)
+21:54:47.725626 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 1864:3276, ack 1, win 501, options [nop,nop,TS val 4197133293 ecr 3214775322], length 1412
+21:54:47.726202 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 3276, win 1692, options [nop,nop,TS val 3214785333 ecr 4197133293], length 0
+21:54:47.826578 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 3276:3632, ack 1, win 501, options [nop,nop,TS val 4197133394 ecr 3214785333], length 356
+21:54:47.827181 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 3632, win 1697, options [nop,nop,TS val 3214785434 ecr 4197133394], length 0
+21:54:47.930553 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 3632:3988, ack 1, win 501, options [nop,nop,TS val 4197133498 ecr 3214785434], length 356
+21:54:47.931165 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 3988, win 1697, options [nop,nop,TS val 3214785538 ecr 4197133498], length 0
+21:54:48.034563 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 3988:4344, ack 1, win 501, options [nop,nop,TS val 4197133602 ecr 3214785538], length 356
+21:54:48.034989 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 4344, win 1697, options [nop,nop,TS val 3214785642 ecr 4197133602], length 0
+21:54:48.138560 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 4344:4700, ack 1, win 501, options [nop,nop,TS val 4197133706 ecr 3214785642], length 356
+21:54:48.139161 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 4700, win 1697, options [nop,nop,TS val 3214785746 ecr 4197133706], length 0
+21:54:48.242555 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 4700:5056, ack 1, win 501, options [nop,nop,TS val 4197133810 ecr 3214785746], length 356
+21:54:48.243156 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 5056, win 1697, options [nop,nop,TS val 3214785850 ecr 4197133810], length 0
+21:54:48.346544 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 5056:5412, ack 1, win 501, options [nop,nop,TS val 4197133914 ecr 3214785850], length 356
+21:54:48.347137 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 5412, win 1697, options [nop,nop,TS val 3214785954 ecr 4197133914], length 0
+21:54:48.450563 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 5412:5768, ack 1, win 501, options [nop,nop,TS val 4197134018 ecr 3214785954], length 356
+21:54:48.451164 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 5768, win 1697, options [nop,nop,TS val 3214786058 ecr 4197134018], length 0
+21:54:48.554549 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 5768:6124, ack 1, win 501, options [nop,nop,TS val 4197134122 ecr 3214786058], length 356
+21:54:48.555075 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 6124, win 1697, options [nop,nop,TS val 3214786162 ecr 4197134122], length 0
+21:54:48.658654 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 6124:6480, ack 1, win 501, options [nop,nop,TS val 4197134226 ecr 3214786162], length 356
+21:54:48.659037 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 6480, win 1697, options [nop,nop,TS val 3214786266 ecr 4197134226], length 0
+21:54:48.762555 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 6480:6836, ack 1, win 501, options [nop,nop,TS val 4197134330 ecr 3214786266], length 356
+21:54:48.763124 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 6836, win 1697, options [nop,nop,TS val 3214786370 ecr 4197134330], length 0
+21:54:48.866566 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 6836:7192, ack 1, win 501, options [nop,nop,TS val 4197134434 ecr 3214786370], length 356
+21:54:48.867147 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 7192, win 1697, options [nop,nop,TS val 3214786474 ecr 4197134434], length 0
+21:54:48.970547 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 7192:7548, ack 1, win 501, options [nop,nop,TS val 4197134538 ecr 3214786474], length 356
+21:54:48.971110 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 7548, win 1697, options [nop,nop,TS val 3214786578 ecr 4197134538], length 0
+21:54:49.074564 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 7548:7904, ack 1, win 501, options [nop,nop,TS val 4197134642 ecr 3214786578], length 356
+21:54:49.075087 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 7904, win 1697, options [nop,nop,TS val 3214786682 ecr 4197134642], length 0
+21:54:49.178549 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 7904:8260, ack 1, win 501, options [nop,nop,TS val 4197134746 ecr 3214786682], length 356
+21:54:49.179122 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 8260, win 1697, options [nop,nop,TS val 3214786786 ecr 4197134746], length 0
+21:54:49.282560 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 8260:8616, ack 1, win 501, options [nop,nop,TS val 4197134850 ecr 3214786786], length 356
+21:54:49.283133 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 8616, win 1697, options [nop,nop,TS val 3214786890 ecr 4197134850], length 0
+21:54:49.386550 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 8616:8972, ack 1, win 501, options [nop,nop,TS val 4197134954 ecr 3214786890], length 356
+21:54:49.387236 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 8972, win 1697, options [nop,nop,TS val 3214786994 ecr 4197134954], length 0
+21:54:49.490553 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 8972:9328, ack 1, win 501, options [nop,nop,TS val 4197135058 ecr 3214786994], length 356
+21:54:49.491184 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 9328, win 1697, options [nop,nop,TS val 3214787098 ecr 4197135058], length 0
+21:54:49.594552 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 9328:9684, ack 1, win 501, options [nop,nop,TS val 4197135162 ecr 3214787098], length 356
+21:54:49.595236 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 9684, win 1697, options [nop,nop,TS val 3214787202 ecr 4197135162], length 0
+21:54:49.606245 IP 192.168.10.2.38452 > 1.1.1.1.domain: 54853+ A? 3.debian.pool.ntp.org. (39)
+21:54:49.606342 IP 192.168.10.2.59286 > 1.1.1.1.domain: 9120+ AAAA? 3.debian.pool.ntp.org. (39)
+21:54:49.698736 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 9684:10232, ack 1, win 501, options [nop,nop,TS val 4197135266 ecr 3214787202], length 548
+21:54:49.699369 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 10232, win 1697, options [nop,nop,TS val 3214787306 ecr 4197135266], length 0
+21:54:49.802558 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 10232:10588, ack 1, win 501, options [nop,nop,TS val 4197135370 ecr 3214787306], length 356
+21:54:49.803236 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 10588, win 1697, options [nop,nop,TS val 3214787410 ecr 4197135370], length 0
+21:54:49.906569 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 10588:10944, ack 1, win 501, options [nop,nop,TS val 4197135474 ecr 3214787410], length 356
+21:54:49.907250 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 10944, win 1697, options [nop,nop,TS val 3214787514 ecr 4197135474], length 0
+21:54:50.010549 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 10944:11300, ack 1, win 501, options [nop,nop,TS val 4197135578 ecr 3214787514], length 356
+21:54:50.011228 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 11300, win 1697, options [nop,nop,TS val 3214787618 ecr 4197135578], length 0
+21:54:50.114564 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 11300:11656, ack 1, win 501, options [nop,nop,TS val 4197135682 ecr 3214787618], length 356
+21:54:50.115251 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 11656, win 1697, options [nop,nop,TS val 3214787722 ecr 4197135682], length 0
+21:54:50.222549 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 11656:12012, ack 1, win 501, options [nop,nop,TS val 4197135790 ecr 3214787722], length 356
+21:54:50.223225 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 12012, win 1697, options [nop,nop,TS val 3214787830 ecr 4197135790], length 0
+21:54:50.326542 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 12012:12368, ack 1, win 501, options [nop,nop,TS val 4197135894 ecr 3214787830], length 356
+21:54:50.327224 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 12368, win 1697, options [nop,nop,TS val 3214787934 ecr 4197135894], length 0
+21:54:50.430544 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 12368:12724, ack 1, win 501, options [nop,nop,TS val 4197135998 ecr 3214787934], length 356
+21:54:50.431207 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 12724, win 1697, options [nop,nop,TS val 3214788038 ecr 4197135998], length 0
+21:54:50.534544 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 12724:13080, ack 1, win 501, options [nop,nop,TS val 4197136102 ecr 3214788038], length 356
+21:54:50.535058 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 13080, win 1697, options [nop,nop,TS val 3214788142 ecr 4197136102], length 0
+21:54:50.638609 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 13080:13436, ack 1, win 501, options [nop,nop,TS val 4197136206 ecr 3214788142], length 356
+21:54:50.639308 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 13436, win 1697, options [nop,nop,TS val 3214788246 ecr 4197136206], length 0
+21:54:50.742552 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 13436:13792, ack 1, win 501, options [nop,nop,TS val 4197136310 ecr 3214788246], length 356
+21:54:50.743230 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 13792, win 1697, options [nop,nop,TS val 3214788350 ecr 4197136310], length 0
+21:54:50.846657 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 13792:14148, ack 1, win 501, options [nop,nop,TS val 4197136414 ecr 3214788350], length 356
+21:54:50.847329 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 14148, win 1697, options [nop,nop,TS val 3214788454 ecr 4197136414], length 0
+21:54:50.950563 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 14148:14504, ack 1, win 501, options [nop,nop,TS val 4197136518 ecr 3214788454], length 356
+21:54:50.951248 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 14504, win 1697, options [nop,nop,TS val 3214788558 ecr 4197136518], length 0
+21:54:51.054559 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 14504:14860, ack 1, win 501, options [nop,nop,TS val 4197136622 ecr 3214788558], length 356
+21:54:51.055189 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 14860, win 1697, options [nop,nop,TS val 3214788662 ecr 4197136622], length 0
+21:54:51.158556 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 14860:15216, ack 1, win 501, options [nop,nop,TS val 4197136726 ecr 3214788662], length 356
+21:54:51.159235 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 15216, win 1697, options [nop,nop,TS val 3214788766 ecr 4197136726], length 0
+21:54:51.262548 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 15216:15572, ack 1, win 501, options [nop,nop,TS val 4197136830 ecr 3214788766], length 356
+21:54:51.263175 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 15572, win 1697, options [nop,nop,TS val 3214788870 ecr 4197136830], length 0
+21:54:51.366578 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 15572:15928, ack 1, win 501, options [nop,nop,TS val 4197136934 ecr 3214788870], length 356
+21:54:51.367252 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 15928, win 1697, options [nop,nop,TS val 3214788974 ecr 4197136934], length 0
+21:54:51.470550 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 15928:16284, ack 1, win 501, options [nop,nop,TS val 4197137038 ecr 3214788974], length 356
+21:54:51.471048 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 16284, win 1697, options [nop,nop,TS val 3214789078 ecr 4197137038], length 0
+21:54:51.574545 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 16284:16640, ack 1, win 501, options [nop,nop,TS val 4197137142 ecr 3214789078], length 356
+21:54:51.575217 IP 192.168.10.1.45888 > 192.168.10.2.ssh: Flags [.], ack 16640, win 1697, options [nop,nop,TS val 3214789182 ecr 4197137142], length 0
+21:54:51.678626 IP 192.168.10.2.ssh > 192.168.10.1.45888: Flags [P.], seq 16640:16996, ack 1, win 501, options [nop,nop,TS val 4197137246 ecr 3214789182], length 356
+242/34.058 = 7.1 events/s
+yes, increased to 0.05wh & 0.06wh
+sending(giving kinetic energy) is gonna consume more than receiving(detecting presence of object)
+
+iperf : 0.03wh, expensive(server)
+iperf : 0.03wh, expensive(client)t = 20s
+
+
+Coalesce parameters for eth0:
+Adaptive RX: off  TX: n/a
+stats-block-usecs: n/a
+sample-interval: n/a
+pkt-rate-low: n/a
+pkt-rate-high: n/a
+
+rx-usecs: 57
+rx-frames: 1
+rx-usecs-irq: n/a
+rx-frames-irq: n/a
+
+tx-usecs: n/a
+tx-frames: 10
+tx-usecs-irq: n/a
+tx-frames-irq: n/a
+
+rx-usecs-low: n/a
+rx-frame-low: n/a
+tx-usecs-low: n/a
+tx-frame-low: n/a
+
+rx-usecs-high: n/a
+rx-frame-high: n/a
+tx-usecs-high: n/a
+tx-frame-high: n/a
+
+
+CPU: power consumption slightly higher, to 6.2w
+
+0.03wh*4 + 0.034wh + 0.05 + 0.06 = 0.264 /1000 kwh
+CF = 0.1045 g
+
+assuming avrage power of 5.4w
+8760 * 5.4w = 47.3kwh/year
+global average carbon intensity = 0.475kg/kwh
+CF = 0.475 * 30 * 10^9 * 47.304 = 6.74 * 10^11kg
+2030 CF = 1.35 * 10^12kg
+No, as not all device consume such power, and we assume constant year run of 24h/day, this estimate would be the. But the estimate is aCTUALLY ACCURATE
