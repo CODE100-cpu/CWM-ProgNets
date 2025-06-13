@@ -53,7 +53,7 @@ def make_seq(p1, p2):
 
 def get_if():
     ifs=get_if_list()
-    iface= "veth0-1" # "h1-eth0"
+    iface= "enx0c37965f8a10" # "h1-eth0"
     #for i in get_if_list():
     #    if "eth0" in i:
     #        iface=i
@@ -69,7 +69,7 @@ def main():
     p = make_seq(num_parser, make_seq(op_parser,num_parser))
     s = ''
     #iface = get_if()
-    iface = "veth0-1"
+    iface = "enx0c37965f8a10"
 
     while True:
         s = input('> ')
@@ -78,7 +78,7 @@ def main():
         print(s)
         try:
             i,ts = p(s,0,[])
-            pkt = Ether(dst='00:04:00:00:00:00', type=0x1234) / P4calc(op=ts[1].value,
+            pkt = Ether(dst='e4:5f:01:87:32:1a', type=0x1234) / P4calc(op=ts[1].value,
                                               operand_a=int(ts[0].value),
                                               operand_b=int(ts[2].value))
 
